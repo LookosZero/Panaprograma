@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1603739473 source:c:\users\arturo\desktop\trabajos lucas\panaprograma\main.cpp
+	<iostream>
+	<thread>
+	<chrono>
+	<stdlib.h>
+	<time.h>
+
